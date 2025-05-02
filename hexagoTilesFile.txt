@@ -1,0 +1,85 @@
+2 Prairies Wetlands 2 Salmon Buzzard
+2 Mountains Wetlands 2 Elk Fox
+2 Forests Wetlands 2 Bear Fox 
+1 Rivers 1 Buzzard
+2 Forests Rivers 2 Fox Salmon
+2 Prairies Wetlands 2 Elk Salmon 
+2 Forests Wetlands 2 Elk Salmon
+2 Wetlands Rivers 2 Buzzard Bear
+2 Mountains Forests 2 Bear Fox
+2 Forests Wetlands 2 Elk Buzzard
+2 Mountains Forests 3 Buzzard Elk Bear
+1 Wetlands 1 Fox
+2 Prairies Wetlands 3 Salmon Elk Fox
+1 Rivers 1 Salmon
+2 Prairies Wetlands 2 Elk Fox 
+2 Prairies Rivers 2 Bear Fox 
+2 Prairies Rivers 3 Salmon Fox Bear 
+2 Forests Wetlands 2 Buzzard Fox 
+2 Mountains Forests 2 Elk Fox 
+2 Wetlands Rivers 2 Salmon Bear
+1 Wetlands 1 Salmon 
+2 Mountains Forests 3 Fox Elk Bear
+2 Rivers Mountains 2 Salmon Buzzard 
+2 Mountains Prairies 2 Buzzard Fox
+2 Mountains Prairies 3 Fox Bear Elk 
+2 Forests Prairies 3 Salmon Elk Fox
+1 Forests 1 Elk  
+1 Prairies 1 Fox     
+2 Mountains Wetlands 2 Bear Salmon
+2 Forests Rivers 3 Buzzard Elk Fox 
+2 Prairies Rivers 2 Elk Buzzard 
+2 Wetlands Rivers 2 Fox Buzzard 
+2 Rivers Mountains 2 Salmon Bear
+2 Forests Wetlands 3 Salmon Buzzard Elk 
+2 Rivers Mountains 2 Bear Elk 
+1 Mountains 1 Buzzard
+1 Wetlands 1 Fox 
+2 Mountains Wetlands 2 Salmon Buzzard
+1 Mountains 1 Elk 
+2 Rivers Mountains 3 Salmon Bear Buzzard 
+2 Forests Rivers 2 Bear Salmon 
+2 Mountains Wetlands 2 Elk Buzzard
+1 Forests 1 Fox 
+1 Prairies 1 Elk 
+2 Mountains Wetlands 3 Fox Bear Buzzard 
+2 Forests Prairies 2 Fox Salmon 
+2 Mountains Forests 2 Buzzard Elk 
+2 Mountains Prairies 3 Salmon Fox Bear
+2 Mountains Forests 2 Bear Buzzard 
+1 Mountains 1 Buzzard 
+1 Prairies 1 Salmon 
+2 Forests Prairies 2 Elk Salmon 
+2 Prairies Rivers 3 Fox Bear Buzzard  
+1 Mountains 1 Elk 
+2 Forests Prairies 2 Bear Elk 
+1 Wetlands 1 Buzzard  
+1 Forests 1 Bear
+2 Mountains Prairies 2 Bear Salmon 
+2 Forests Rivers 2 Elk Bear
+1 Forests 1 Bear 
+1 Rivers 1 Buzzard 
+2 Wetlands Rivers 2 Fox Salmon 
+1 Rivers 1 Bear 
+2 Rivers Mountains 2 Buzzard Elk 
+1 Forests 1 Fox 
+2 Forests Prairies 2 Elk Fox 
+2 Forests Prairies 2 Bear Fox 
+2 Prairies Rivers 2 Elk Salmon 
+1 Prairies 1 Elk 
+2 Forests Wetlands 2 Bear Salmon 
+2 Wetlands Rivers 3 Salmon Bear Buzzard  
+2 Forests Rivers 2 Fox Bear
+2 Mountains Prairies 2 Buzzard Elk 
+2 Prairies Wetlands 2 Fox Buzzard 
+1 Mountains 1 Bear 
+2 Prairies Wetlands 3 Salmon Buzzard Fox 
+2 Forests Rivers 2 Elk Buzzard 
+2 Wetlands Rivers 2 Salmon Buzzard 
+2 Mountains Wetlands 3 Salmon Elk Bear 
+1 Prairies 1 Salmon 
+1 Wetlands 1 Salmon 
+2 Prairies Rivers 2 Fox Buzzard
+1 Rivers 1 Bear 
+2 Rivers Mountains 2 Buzzard Bear
+2 Mountains Prairies 2 Elk Salmon 

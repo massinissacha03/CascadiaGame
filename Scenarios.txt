@@ -1,0 +1,10 @@
+1 Score 80+ Points / using wildlife card A
+2 Score 80+ Points / using wildlife card B
+3 Score 80+ Points / using wildlife card C
+4 Score 85+ Points / using wildlife card D
+5 Score 85+ Points / using 3+ completed Nature Tokens
+6 Score 85+ Points / with at least 4 tokens of each animal / (Bear D, Elk B, Salmon C, Buzzard C, Fox B)
+7 Score 90+ Points / with 20+ Points for Buzzard / (Bear B, Elk C, Salmon C, Buzzard D, Fox C)
+8 Score 90+ Points / with 5+ Nature Tokens and no Elk adjacent to Bear / (Bear C, Elk B, Salmon B, Buzzard A, Fox D)
+9 Score 90+ Points / with 10+ Points for each animal / with 5+ Points for each habitat / (Bear C, Elk A, Salmon D, Buzzard C, Fox B)
+10 Score 95+ Points / with 60+ Wildlife points and at least 7+ points in 3 Habitat types / (Bear C, Elk B, Salmon D, Buzzard B, Fox B)

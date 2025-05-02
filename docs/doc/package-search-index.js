@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"fr.uge.cascadia"},{"l":"fr.uge.cascadia.animal"},{"l":"fr.uge.cascadia.board"},{"l":"fr.uge.cascadia.controller"},{"l":"fr.uge.cascadia.score"},{"l":"fr.uge.cascadia.success"},{"l":"fr.uge.cascadia.tile"},{"l":"fr.uge.cascadia.view"}];updateSearchResults();

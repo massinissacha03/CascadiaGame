@@ -1,0 +1,55 @@
+<project name="Cascadia" default="jar" basedir=".">
+    <!-- Définitions des propriétés -->
+    <property name="src.dir" value="src"/>
+    <property name="build.dir" value="classes"/>
+    <property name="lib.dir" value="lib"/>
+    <property name="doc.dir" value="docs/doc"/>
+    <property name="main.class" value="fr.uge.cascadia.Game"/>
+
+    <!-- Nettoyage -->
+    <target name="clean">
+        <delete dir="${build.dir}"/>
+        <delete dir="${dist.dir}"/>
+        <delete dir="${doc.dir}"/>
+    </target>
+
+    <!-- Compilation -->
+    <target name="compile">
+        <mkdir dir="${build.dir}"/>
+        <javac srcdir="${src.dir}" destdir="${build.dir}" includeantruntime="false">
+            <compilerarg value="--enable-preview"/>
+            <compilerarg value="-source"/>
+            <compilerarg value="23"/>
+            <classpath>
+                <!-- Inclure toutes les bibliothèques du dossier lib -->
+                <fileset dir="${lib.dir}" includes="*.jar"/>
+            </classpath>
+        </javac>
+    </target>
+
+    <!-- Création du JAR exécutable -->
+    <target name="jar" depends="compile">
+        <jar destfile="Cascadia.jar">
+            <!-- Ajouter les fichiers compilés -->
+            <fileset dir="${build.dir}"/>
+            <!-- Ajouter les dépendances externes -->
+            <zipfileset src="${lib.dir}/zen-6.0.jar"/>
+            <manifest>
+                <attribute name="Main-Class" value="${main.class}"/>
+                <attribute name="Multi-Release" value="true"/>
+            </manifest>
+        </jar>
+    </target>
+
+    <!-- Génération de la Javadoc -->
+	<target name="javadoc">
+	    <mkdir dir="${doc.dir}"/>
+	    <javadoc destdir="${doc.dir}" sourcepath="${src.dir}" additionalparam="--enable-preview -source 23">
+	        <classpath>
+	            <fileset dir="${lib.dir}" includes="*.jar"/>
+	        </classpath>
+	    </javadoc>
+	</target>
+
+
+</project>

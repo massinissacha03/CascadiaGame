@@ -1,0 +1,25 @@
+1 Score 80+ Points
+2 Score 85+ Points
+3 Score 90+ Points
+4 Score 95+ Points
+5 Score 100+ Points
+6 Score 105+ Points
+7 Score 110+ Points
+8 have no Nature Tokens Left
+9 have no bears
+10 have no elk
+11 have no salmon
+12 have no hawks
+13 have no foxes 
+14 have more than 10 of a single wildlife 
+15 win majority for 3 habitats
+16 score 5+ Points for all habitats
+17 score 12+ points for a single habitat
+18 Score 15+ Points from a single Habitat
+19 Score 10+ Points for each Wildlife
+20 Score 20+ Points for two Wildlife
+21 Score 30+ Points for a single Wildlife
+22 End the game with 5+ Nature Tokens
+23 End the game with 10+ Nature Tokens
+24 Have no completed Keystone Habitats
+25 Only have 3 types of Wildlife
