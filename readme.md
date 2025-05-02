@@ -107,12 +107,6 @@ Use the `build.xml` file with Apache Ant:
 - Add online multiplayer mode.
 - Integrate AI for solo mode.
 
-## Modifications from Beta
-- Eliminated code duplication between terminal and graphical controllers.
-- Improved `ImageLoader` implementation.
-- Adhered to MVC pattern.
-- Ensured proper null checks with `Objects.requireNonNull()`.
-
 ## Acknowledgments
 - The `ImageLoader.java` class was adapted from an example provided by the instructor.
 - Thanks to the teaching staff for guidance on hexagonal tile implementation.
