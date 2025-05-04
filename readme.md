@@ -1,5 +1,7 @@
-# Cascadia Game Simulation
-
+# Cascadia Game Simulation 
+[Watch the demo]([https://example.com/my-video](https://vimeo.com/1081293219/1ab92ec63a?share=copy )
+[cascadia online](https://cascadiagame.github.io/)
+[cascadia game rules](https://drive.google.com/file/d/1fY8-__M2f0QSxvBi0P2oycG6F0l1yJiI/view)
 ## Overview
 This project is a Java-based simulation of the *Cascadia* board game, a tile-placement and token-drafting game set in the Pacific Northwest. The game supports 1 to 4 players and offers three modes:
 - **Terminal Mode** with square tiles.
