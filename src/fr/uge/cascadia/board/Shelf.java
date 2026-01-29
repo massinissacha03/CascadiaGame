@@ -19,7 +19,7 @@ import fr.uge.cascadia.tile.Tile;
  * 
  * This class provides methods to add, retrieve, and manage tiles and tokens.
  *
- *	@author Massinissa
+ *	@author Massinissa - Boualem
  **/
 
 
