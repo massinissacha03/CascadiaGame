@@ -1,6 +1,5 @@
 # Cascadia Game Simulation
 
-[Watch the demo](https://vimeo.com/1081293219/1ab92ec63a?share=copy)
 
 [cascadia online](https://cascadiagame.github.io/)
 
